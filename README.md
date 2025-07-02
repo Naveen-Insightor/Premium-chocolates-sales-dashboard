@@ -49,7 +49,8 @@ Seasonal sales patterns and discount impact on profits
 Sales growth comparison YoY
 
 **📸 Dashboard Preview**
-Embed screenshot or add GitHub-hosted image
+![image](https://github.com/user-attachments/assets/84e370dd-26d2-4a5d-8120-546ccb600206)
+
 
 
 **👨‍💻 My Role / Contribution**
